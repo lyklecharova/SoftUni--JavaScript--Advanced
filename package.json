@@ -1,0 +1,16 @@
+{
+  "name": "js-advanced",
+  "version": "1.0.0",
+  "main": "Codeland Username Validation.js",
+  "scripts": {
+    "test": "mocha ./*test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
